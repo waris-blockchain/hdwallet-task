@@ -1,0 +1,17 @@
+{
+  "name": "hdwallet-task",
+  "version": "1.0.0",
+  "description": "generate addresses from Bip39 Mnemonic",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^2.0.5",
+    "bip39": "^3.0.2",
+    "bitcoinjs-lib": "^5.2.0"
+  }
+}

@@ -1,5 +1,3 @@
-# hdwallet-task
-
 //Install project dependencies by following command in project directory
 
 "npm install"
